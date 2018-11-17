@@ -13,6 +13,7 @@ names = list()
 times = list()
 keys = list()
 
+
 IP = "192.168.3.8"  # ROBOT IP
 PORT = 9559  # 端口
 motionProxy = ALProxy("ALMotion", IP, PORT)
