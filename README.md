@@ -20,13 +20,13 @@ Binary the image to a two color image by HSV color space which in the  opencv li
 How to control the hand to the target? I use the Cartesian algorithm to handle it. (The algo is based on the dynamic 3D robotic model which provide a Array contains six angel.)
 
 #### The result:
-Original image
-![izo5E4.png](https://s1.ax1x.com/2018/11/18/izo5E4.png)
-After HSV binary:
-![izofDU.png](https://s1.ax1x.com/2018/11/18/izofDU.png)
-Calculate the locate
-![izohbF.png](https://s1.ax1x.com/2018/11/18/izohbF.png)
-Another image to calculate the locate
-![izoIUJ.png](https://s1.ax1x.com/2018/11/18/izoIUJ.png)
-Get the center 
-![izoWuT.png](https://s1.ax1x.com/2018/11/18/izoWuT.png)
+* Original image
+* ![izo5E4.png](https://s1.ax1x.com/2018/11/18/izo5E4.png)
+* After HSV binary:
+* ![izofDU.png](https://s1.ax1x.com/2018/11/18/izofDU.png)
+* Calculate the locate
+* ![izohbF.png](https://s1.ax1x.com/2018/11/18/izohbF.png)
+* Another image to calculate the locate
+* ![izoIUJ.png](https://s1.ax1x.com/2018/11/18/izoIUJ.png)
+* Get the center 
+* ![izoWuT.png](https://s1.ax1x.com/2018/11/18/izoWuT.png)
