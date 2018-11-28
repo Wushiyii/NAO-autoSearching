@@ -6,7 +6,7 @@ It's a object recognition algorithm based on NAO robot by using naoqi、OpenCv�
 It's a robotic searching and recognition algorithn by Python.And it's mainly based on OpenCV、Naoqi、Numpy、PIL module.
 
 #### The process :
-Open the robot's head camera --> Get image -->  Binary image  -->  Get 2D locate --> Transform to 3D locate --> Go to the target  --> Pick it --> Go to  another target position --> Drop it 
+Open the robot's head camera --> Get image -->  Binary image  --> Morphology -->  Get 2D locate --> Transform to 3D locate --> Go to the target  --> Pick it --> Go to  another target position --> Drop it 
 
 #### The process's detail :
 The process has many part:
@@ -24,6 +24,8 @@ How to control the hand to the target? I use the Cartesian algorithm to handle i
 <img  src="https://s1.ax1x.com/2018/11/28/FZnN5Q.png" width="400" height="310" />
 - After HSV binary:
 <img  src="https://s1.ax1x.com/2018/11/18/izofDU.png"  width="400" height="310" />
+- After Morphology :
+<img  src="https://s1.ax1x.com/2018/11/28/FZnRPJ.png"  width="400" height="310" />
 - Calculate the locate:
 <img  src="https://s1.ax1x.com/2018/11/18/izohbF.png"  width="400" height="310" />
 - Another image to calculate the locate:
