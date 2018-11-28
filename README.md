@@ -34,3 +34,5 @@ How to control the hand to the target? I use the Cartesian algorithm to handle i
 <img  src="https://s1.ax1x.com/2018/11/18/izoWuT.png"  width="400" height="310" />
 - Using the bottom camera:
 <img  src="https://s1.ax1x.com/2018/11/28/FZntUg.png"  />
+- Do it selt:
+<img  src="https://s1.ax1x.com/2018/11/29/FZKoND.gif"  />
